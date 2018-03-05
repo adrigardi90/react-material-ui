@@ -1,2 +1,2 @@
 # react-material-ui
-Example of material-ui with React
+Example of material-ui with React and Typescript
